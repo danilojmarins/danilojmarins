@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Danilo!
 
 <div>
-  <img height="180em" src="https://github-readme-stats-six-puce-48.vercel.app/api?username=danilojmarins&show_icons=true&theme=tokyonight"></img>
-  <img height="180em" src="https://github-readme-stats-six-puce-48.vercel.app/api/top-langs/?username=danilojmarins&layout=compact&theme=tokyonight&langs_count=8"></img>
+  <img height="180em" src="https://github-readme-stats-six-puce-48.vercel.app/api?username=danilojmarins&count_private=true&show_icons=true&theme=tokyonight"></img>
+  <img height="180em" src="https://github-readme-stats-six-puce-48.vercel.app/api/top-langs/?username=danilojmarins&count_private=true&layout=compact&theme=tokyonight&langs_count=8"></img>
 </div>
 <br>
 <div>
