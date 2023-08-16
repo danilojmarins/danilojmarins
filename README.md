@@ -1,28 +1,22 @@
 ### Danilo Marins
 
-<br>
+<h4 align="center">Transformando ideias em código!</h4>
 
-<h4>Transformando ideias em código!</h4>
+##
 
-<br>
-
-- 💻 Mais de um ano de experiência com: <b>HTML, CSS, TypeScript, ReactJS, Node.js, Express, NextJS, SQL</b>
+- 💻 Mais de um ano de experiência com: <b>TypeScript, ReactJS, Node.js, Express, NextJS, SQL</b>
 - 👨‍🎓 Formado em <b>Gestão da Tecnologia da Informação</b> pela FATEC
 - 📚 Cursando o 4° semestre de <b>Análise e Desenvolvimento de Sistemas</b> pela FATEC
-- 👨‍💻 Estagiário de Desenvolvimento Web at LW Tecnologia
+- 👨‍💻 <b>Estagiário de Desenvolvimento Web</b> at LW Tecnologia
 - 🌱 Estudando Estrutura de Dados, Complexidade de Algoritmos, Padrões de Arquitetura de Software, Orientação a Objetos, C++
 - 🎯 Objetivo: me tornar um <b>Engenheiro de Software</b>
 - 🇬🇧 Inglês Avançado
 - 🎸 Apaixonado por música
 
-<br>
-
 <div>
   <img height="180em" src="https://github-readme-stats-six-puce-48.vercel.app/api?username=danilojmarins&count_private=true&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats-six-puce-48.vercel.app/api/top-langs/?username=danilojmarins&count_private=true&layout=compact&theme=tokyonight&langs_count=8" />
 </div>
-
-<br>
 
 <div>
   <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
