@@ -1,6 +1,6 @@
 ### Danilo Marins
 
-<h4 align="center">Transformando ideias em código!</h4>
+<h4 align="center">Abstraindo o mundo real em código.</h4>
 
 ##
 
