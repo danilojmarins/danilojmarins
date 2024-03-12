@@ -2,11 +2,11 @@
 
 ##
 
-- 💻 Um ano e meio de experiência com: <b>TypeScript, React, Node.js, Express, NextJS, SQL</b>
+- 💻 Dois anos de experiência com <b>Desenvolvimento de Software</b>
 - 👨‍🎓 Formado em <b>Gestão da Tecnologia da Informação</b> pela FATEC
-- 📚 Cursando o 5° semestre de <b>Análise e Desenvolvimento de Sistemas</b> pela FATEC
+- 📚 Cursando <b>Análise e Desenvolvimento de Sistemas</b> pela FATEC
 - 👨‍💻 <b>Software Developer</b> at <b>Senior Sistemas</b>
-- 🌱 Estudando Algoritmos, Estrutura de Dados, SOLID, DDD
+- 🌱 Estudando Clean Architecture, Domain-Driven Design, Design Patterns, Microsserviços, SOLID.
 - 🎯 Objetivo: me tornar um <b>Engenheiro de Software</b>
 - 🇬🇧 Inglês Avançado
 
