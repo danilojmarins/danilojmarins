@@ -1,11 +1,12 @@
-### Danilo Marins
+### Danilo José Marins
 
 ##
 
 - 💻 Dois anos e meio de experiência com <b>Desenvolvimento de Software</b>
 - 👨‍🎓 Formado em <b>Gestão da Tecnologia da Informação</b> pela FATEC
-- 📚 Formado em <b>Análise e Desenvolvimento de Sistemas</b> pela FATEC
-- 👨‍💻 <b>Software Developer</b> at <b>Senior Sistemas</b>
+- 👨‍🎓 Formado em <b>Análise e Desenvolvimento de Sistemas</b> pela FATEC
+- 📚 Cursando Pós-graduação em <b>Arquitetura de Software</b> pela Full Cycle
+- 👨‍💻 <b>Software Engineer</b> at <b>US based Start Up</b>
 - 🇬🇧 Inglês Avançado
 
 <div>
